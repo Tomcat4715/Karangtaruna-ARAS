@@ -77,13 +77,13 @@
   <section id="program">
     <h2>Program Unggulan</h2>
     <p><strong>Dompet ARAS:</strong> Platform digital keuangan internal pemuda desa.</p>
-    <p><strong>Bank Sampah ARAS:</strong> Program pengelolaan sampah yang menghasilkan tabungan bagi warga dan anggota karangtaruna.</p>
+    <p><strong>Bank Sampah ARAS:</strong> Program pengelolaan sampah yang menghasilkan tabungan bagi warga.</p>
   </section>
   <section id="kontak">
     <h2>Kontak Kami</h2>
     <p>Email: karangtaruna.aras@email.com</p>
-    <p>WhatsApp: +6281322355056</p>
-    <p>Alamat: Dusun Citambal, Desa Karanglayung, Kecamatan Karangjaya, Kabupaten Tasikmalaya, 46199</p>
+    <p>WhatsApp: 08xxxxxxxxxx</p>
+    <p>Alamat: Desa ARAS, Kecamatan ...., Kabupaten ....</p>
   </section>
   <footer>
     <p>&copy; 2025 KARANGTARUNA ARAS. Dibuat dengan semangat pemuda.</p>
